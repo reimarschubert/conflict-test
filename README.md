@@ -1,2 +1,2 @@
-# conflict-test[develop1]
+# conflict-test[master1]
 
